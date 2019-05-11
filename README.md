@@ -34,7 +34,8 @@ Puoi 'consumare' un qualunque incantesimo preparato (ad esclusione di quello di 
 ### Dominio della Protezione
 **Potere**: La creatura toccata guadagna un bonus al suo prossimo TS pari al tuo livello. Dura 1h. 1 volta/giorno.  
 
-Incantesimi:
+**Incantesimi**:
+
 | Livello | Incantesimo |
 | :---: | :---------------: |
 | 1 | [Santuario](http://www.d20srd.org/srd/spells/sanctuary.htm) |
@@ -60,5 +61,17 @@ Incantesimi:
 - [Resurgence](http://dnd.arkalseif.info/spells/spell-compendium--86/resurgence--4102/index.html): permette di riprovare il TS fallito contro un incantesimo con effetto continuo (rimuove la paura da un'abilità magica che causa paura o cose simili).
 - [Vigor, Lesser](http://dnd.arkalseif.info/spells/spell-compendium--86/vigor-lesser--4725/index.html)(\*): miglior cura fuori dal combattimento. Cura 1 pv/round (Dura 15 round = 15 PV curati).
 
+### Livello 2
+- [Forza/Destrezza/Costituzione/...](): +4 alla statistica per 1 minuto/livello.
+- [Consacrare](http://www.d20srd.org/srd/spells/consecrate.htm): molto utile contro i non morti. +3 a scacciare, i non morti hanno -1 al txc, danni e ts. Altri effetti interessanti. **NOTA**: necessita di una componente materiale dal valore di 25 monete d'oro che verrà consumata al lancio.
+- [Darkness](http://www.d20srd.org/srd/spells/darkness.htm): per 10 minuti per livello la zona o l'oggetto emana 'oscurità', nella quale si ha il 20% di possibilità di essere mancati (e di mancare).
+-[Restoration, lesser](http://www.d20srd.org/srd/spells/restorationLesser.htm): recupera 1d4 danni alle caratteristiche. Recupera l'affaticamente e migliora di un grado l'esausto.
+- [Sound Burst](http://www.d20srd.org/srd/spells/soundBurst.htm): 1d8 danni in area. Con un TS fallito su Tempra, i bersagli sono [stunnati](http://www.d20srd.org/srd/conditionSummary.htm#stunned)
+- [Zona di Verità](http://www.d20srd.org/srd/spells/zoneOfTruth.htm): chi è all'interno e fallisce il TS su volontà non può mentire.
+- [Resistere all'energia](http://www.d20srd.org/srd/spells/resistEnergy.htm)
+- [Close Wounds](http://dnd.arkalseif.info/spells/spell-compendium--86/close-wounds--3542/index.html): cura solo 1d4+5, ma è un'azione **immediata** (puoi lanciarlo in qualunque momento, anche per provare a salvare qualcuno che è appena sceso sotto i -10 PF)
+- [Dark Way](http://dnd.arkalseif.info/spells/spell-compendium--86/dark-way--4326/index.html): creare ponti is free.
+- [Divine Insight](http://therafimrpg.wikidot.com/divine-insight): 5+Livello ad una prova. Situazionalmente fenomenale.
+- 
 
 
