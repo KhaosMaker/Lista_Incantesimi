@@ -72,6 +72,25 @@ Puoi 'consumare' un qualunque incantesimo preparato (ad esclusione di quello di 
 - [Close Wounds](http://dnd.arkalseif.info/spells/spell-compendium--86/close-wounds--3542/index.html): cura solo 1d4+5, ma è un'azione **immediata** (puoi lanciarlo in qualunque momento, anche per provare a salvare qualcuno che è appena sceso sotto i -10 PF)
 - [Dark Way](http://dnd.arkalseif.info/spells/spell-compendium--86/dark-way--4326/index.html): creare ponti is free.
 - [Divine Insight](http://therafimrpg.wikidot.com/divine-insight): 5+Livello ad una prova. Situazionalmente fenomenale.
-- 
+- [Frost Breath](https://dndtools.net/spells/spell-compendium--86/frost-breath--4540/): pochi danni (2d4, 3d4 al 6°) ma se i bersagli falliscono il TS riflessi restano [dazed](http://www.d20srd.org/srd/conditionSummary.htm#Dazed).
+- [Elation](https://dndtools.net/spells/book-of-exalted-deeds--52/elation--45/): te e gli alleati guadagnate +2 a forza e destrezza e +1 quadretto di movimento.
+
+### Livello 3
+- [Maledire](http://www.d20srd.org/srd/spells/bestowCurse.htm): davvero forte, ma attenzione che è necromanzia...
+- [Accecare](http://www.d20srd.org/srd/spells/blindnessDeafness.htm): Acceca. Non male.
+- [Dispel Magic](http://www.d20srd.org/srd/spells/dispelMagic.htm) (\*): fa un sacco di cose super forti. Da avere.
+- [Magic Circle against \*\*\*\*](http://www.d20srd.org/srd/spells/magicCircleAgainstChaos.htm): come protezione da un allineamento, ma ad area.
+- [Prayer](http://www.d20srd.org/srd/spells/prayer.htm): +1 ad un sacco di cose a te ed alleati, -1 ai nemici.
+- [Rimuovi Maledizione](http://www.d20srd.org/srd/spells/removeCurse.htm): parla da solo.
+- [Rimuovi Malattia](http://www.d20srd.org/srd/spells/removeDisease.htm): non si sa mai.
+- [Searing Light](http://www.d20srd.org/srd/spells/searingLight.htm):  infligge 1d8/2 livelli, ma diventano 1d6/livello contro i non morti (1d8/livello contro quelli che soffrono la luce come i vampiri).
+- [Evoca Mostri III](http://www.d20srd.org/srd/spells/summonMonsterIII.htm): può sempre servire.
+- [Respirare sott'acqua](http://www.d20srd.org/srd/spells/waterBreathing.htm)
+- [Camminare sull'acqua](http://www.d20srd.org/srd/spells/waterWalk.htm): dura 10 min/livello e funziona su 1 creatura/livello.
+- [Muro di Vento](http://www.d20srd.org/srd/spells/windWall.htm)
+- [Fell the Greatest](https://dndtools.net/spells/spell-compendium--86/fell-greatest-foe--3863/): +1d6 danni per ogni taglia **in meno**.
+- [Ice Axe](https://dndtools.net/spells/spell-compendium--86/ice-axe--3862/): 2d12+(livello/2) a contatto. Buono.
+- [Vigor](https://dndtools.net/spells/spell-compendium--86/vigor--4726/): questo cura 2 pv a round. Al 5 cura 30 PV, al 6 ne cura 32.
+- [Vigor, mass lesser](https://dndtools.net/spells/spell-compendium--86/vigor-mass-lesser--4729/): come Vigor, Lesser, ma funziona su una creatura/2 livelli (2 creature al 5, 3 al 6). Dipende se preferisci spendere uno slot di 3° o tre di 1°.
 
 
