@@ -4,6 +4,7 @@
 - TxC: Tiro per colpire
 
 ## Tabella
+
 | Livello | 1° | 2° | 3° |
 | ------ | :--: | :--: | :--: |
 | 5 | 4+1 | 3+1 | 2+1 |
@@ -23,6 +24,7 @@ Puoi 'consumare' un qualunque incantesimo preparato (ad esclusione di quello di 
 **Potere**: Competenza gratuita.  
 
 **Incantesimi**:
+
 | Livello | Incantesimo |
 | :---: | :---------------: |
 | 1 | [Arma magica](http://www.d20srd.org/srd/spells/magicWeapon.htm) |
